@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\Aliyunsdk.csproj" />
+    <ProjectReference Include="..\Aliyunsdk\Aliyunsdk.csproj" />
   </ItemGroup>
 
 </Project>

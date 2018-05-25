@@ -3594,8 +3594,8 @@
     },
     "Aliyunsdk/1.0.0": {
       "type": "project",
-      "path": "D:\\资料\\MyFile\\库\\库\\Oss对象存储\\donet\\Alioss\\Aliyunsdk\\Aliyunsdk.csproj",
-      "msbuildProject": "D:\\资料\\MyFile\\库\\库\\Oss对象存储\\donet\\Alioss\\Aliyunsdk\\Aliyunsdk.csproj"
+      "path": "../Aliyunsdk/Aliyunsdk.csproj",
+      "msbuildProject": "../Aliyunsdk/Aliyunsdk.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3611,11 +3611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\administrator\\source\\repos\\OssTest\\OssTest\\OssTest.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\AliOssDotNetCore\\OssTest\\OssTest.csproj",
       "projectName": "OssTest",
-      "projectPath": "c:\\users\\administrator\\source\\repos\\OssTest\\OssTest\\OssTest.csproj",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\AliOssDotNetCore\\OssTest\\OssTest.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\administrator\\source\\repos\\OssTest\\OssTest\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\AliOssDotNetCore\\OssTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3634,8 +3634,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\资料\\MyFile\\库\\库\\Oss对象存储\\donet\\Alioss\\Aliyunsdk\\Aliyunsdk.csproj": {
-              "projectPath": "D:\\资料\\MyFile\\库\\库\\Oss对象存储\\donet\\Alioss\\Aliyunsdk\\Aliyunsdk.csproj"
+            "C:\\Users\\Administrator\\source\\repos\\AliOssDotNetCore\\Aliyunsdk\\Aliyunsdk.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\source\\repos\\AliOssDotNetCore\\Aliyunsdk\\Aliyunsdk.csproj"
             }
           }
         }

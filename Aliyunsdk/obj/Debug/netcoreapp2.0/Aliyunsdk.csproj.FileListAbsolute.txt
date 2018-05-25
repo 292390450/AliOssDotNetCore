@@ -1,0 +1,12 @@
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\obj\Debug\netcoreapp2.0\Aliyunsdk.csprojAssemblyReference.cache
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\obj\Debug\netcoreapp2.0\Aliyunsdk.Domain.OssResources.resources
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\obj\Debug\netcoreapp2.0\Aliyunsdk.csproj.GenerateResource.cache
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\obj\Debug\netcoreapp2.0\Aliyunsdk.csproj.CoreCompileInputs.cache
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\obj\Debug\netcoreapp2.0\Aliyunsdk.AssemblyInfoInputs.cache
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\obj\Debug\netcoreapp2.0\Aliyunsdk.AssemblyInfo.cs
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\bin\Debug\netcoreapp2.0\Aliyunsdk.deps.json
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\bin\Debug\netcoreapp2.0\Aliyunsdk.dll
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\bin\Debug\netcoreapp2.0\Aliyunsdk.pdb
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\obj\Debug\netcoreapp2.0\Aliyunsdk.dll
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\obj\Debug\netcoreapp2.0\Aliyunsdk.pdb
+D:\资料\MyFile\库\库\Oss对象存储\donet\Alioss\Aliyunsdk\bin\Debug\netcoreapp2.0\Resources\MimeData.txt
